@@ -1,2 +1,3 @@
 this is for complete git practice at weekend
 today's session is to clear all git commands
+file is pushed into git now edited
